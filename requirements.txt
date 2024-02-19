@@ -1,0 +1,3 @@
+discord.py
+db-sqlite3
+requests
